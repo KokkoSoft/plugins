@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:diamond_boots"
-    },
-    "result": "minecraft:diamond",
-    "count": 4
-}
