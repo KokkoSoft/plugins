@@ -1,0 +1,1 @@
+/tellraw @a ["",{"text":"<FillShell phoneDev - "},{"selector":"@s"},{"text":">"}]
