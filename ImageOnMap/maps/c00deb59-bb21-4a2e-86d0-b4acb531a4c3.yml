@@ -1,0 +1,146 @@
+PlayerMapStore:
+  mapList:
+  - columns: 10
+    name: Map
+    id: Map
+    type: POSTER
+    rows: 6
+    mapsIDs:
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    - 40
+    - 41
+    - 42
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    - 58
+    - 59
+    - 60
+    - 61
+    - 62
+    - 63
+    - 64
+    - 65
+    - 66
+  - name: Map
+    mapID: 67
+    id: Map-1
+    type: SINGLE
+  - columns: 2
+    name: Map
+    id: Map-2
+    type: POSTER
+    rows: 3
+    mapsIDs:
+    - 68
+    - 69
+    - 70
+    - 71
+    - 72
+    - 73
+  - columns: 2
+    name: Map
+    id: Map-3
+    type: POSTER
+    rows: 3
+    mapsIDs:
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+    - 79
+  - columns: 2
+    name: Map
+    id: Map-4
+    type: POSTER
+    rows: 1
+    mapsIDs:
+    - 80
+    - 81
+  - columns: 3
+    name: Map
+    id: Map-5
+    type: POSTER
+    rows: 1
+    mapsIDs:
+    - 251
+    - 252
+    - 253
+  - columns: 9
+    name: Map
+    id: Map-6
+    type: POSTER
+    rows: 3
+    mapsIDs:
+    - 254
+    - 255
+    - 256
+    - 257
+    - 258
+    - 259
+    - 260
+    - 261
+    - 262
+    - 263
+    - 264
+    - 265
+    - 266
+    - 267
+    - 268
+    - 269
+    - 270
+    - 271
+    - 272
+    - 273
+    - 274
+    - 275
+    - 276
+    - 277
+    - 278
+    - 279
+    - 280
